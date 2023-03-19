@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "924497757626",
+    "project_id": "hot-breads-d0f06",
+    "storage_bucket": "hot-breads-d0f06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924497757626:android:b98bf9308a57b73cb30983",
+        "android_client_info": {
+          "package_name": "com.mobiquest.hotbreads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924497757626-jnap6hs6ol7183lo455oc0un80ln45ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAydshluiUYJwLgjwIbv-cxYymYdPYrTQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924497757626-jnap6hs6ol7183lo455oc0un80ln45ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
